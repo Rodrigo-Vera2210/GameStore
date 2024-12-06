@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A97398E7-E2B1-4EF3-AC4B-7A201CAB9D40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameStore.API", "src\GameStore.API\GameStore.API.csproj", "{580C5CB7-E260-4EF8-9AED-1049FD83883C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580C5CB7-E260-4EF8-9AED-1049FD83883C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580C5CB7-E260-4EF8-9AED-1049FD83883C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580C5CB7-E260-4EF8-9AED-1049FD83883C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580C5CB7-E260-4EF8-9AED-1049FD83883C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{580C5CB7-E260-4EF8-9AED-1049FD83883C} = {A97398E7-E2B1-4EF3-AC4B-7A201CAB9D40}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A26B6F-D1B8-4E73-BCD8-A2DC67AE44F0}
+	EndGlobalSection
+EndGlobal
